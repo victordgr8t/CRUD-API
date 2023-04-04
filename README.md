@@ -158,3 +158,7 @@ The process involves designing and creating the API using an API design tool and
 By following the steps outlined in this post, you can get your API up and running in no time. So, whether you're building a new API or migrating an existing one, AWS SAM is a powerful tool that can help you get the job done quickly and efficiently.
 
 Hope you enjoyed the tutorial. Good luck and happy coding...
+
+
+
+https://vicmode.hashnode.dev/build-a-crud-restful-microservice-with-aws-lambda-api-gateway-and-dynamodb-using-aws-sam-and-vscode
